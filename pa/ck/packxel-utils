@@ -1,1 +1,0 @@
-{"name":"packxel-utils","vers":"0.3.1","deps":[],"cksum":"90b9044258d6a5e6313f52ecf3fcf9bb380fcec25d781ad41d430369deda8230","features":{"default":[],"full":["logging"]},"features2":{"logging":["dep:log","dep:log4rs"]},"yanked":false,"v":2}
